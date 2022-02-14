@@ -1,0 +1,151 @@
+[ 
+        {
+
+            "question" : "L'origami est : ",
+            
+            "choices" : [
+                            "La tenue traditionnelle japonaise",
+                            "Un petit poème japonais",
+                            "Une spécialité culinaire japonaise",
+                            "Un terme japonais désignant l'art du pliage"
+                        ],
+            "correct" : "Un terme japonais désignant l'art du pliage",
+            "explanation": "parce que c'est la bonne réponse."
+        },
+        {
+            "question" : "Quelle est la couleur du ruban de l'ordre de la Légion d'honneur ?",
+            
+            "choices" : [
+                    "Vert",
+                    "Rouge",
+                    "Bleu"
+                        ],
+             "correct" : "Rouge",
+             "explanation" : "C'est la couleur qui se voit le mieux"
+        },
+        {
+            "question" : "Depuis combien d’années un couple qui fête ses noces de chêne est-il marié ?",
+            
+            "choices" : [
+                    "50ans",
+                    "60ans",
+                    "80ans"
+                        ],
+             "correct" : "80ans",
+             "explanation" : "bientot ça sentira le sapin"
+        },
+        {
+            "question" : "Comment appelle-t-on le versant nord d’une montagne ?",
+            
+            "choices" : [
+                    "L'adret",
+                    "L'ubac",
+                    "La soulane"
+                        ],
+             "correct" : "L'ubac",
+             "explanation" : "La montagne ça vous gagne"
+        },
+        {
+            "question" : "Le Chambolle-Musigny est : ",
+            
+            "choices" : [
+                    "Un champignon",
+                    "Un vin",
+                    "Un fromage",
+                    "Un alcool"
+                        ],
+             "correct" : "Un vin",
+             "explanation" : "Surement le nom d'une ville"
+        },
+        {
+            "question" : "Depuis 2013, combien existe-t-il de catégories de permis auto ?",
+            
+            "choices" : [
+                    "Trois",
+                    "Quatre",
+                    "Cinq"
+                        ],
+             "correct" : "Trois",
+             "explanation" : "Le principal c'est d'en avoir un au moins"
+        },
+        {
+            "question" : "Qui peut délivrer un permis d’inhumer ?",
+            
+            "choices" : [
+                    "Le maire",
+                    "Le prêtre",
+                    "Le médecin",
+                    "Le service des pompes funèbres"
+                        ],
+             "correct" : "Le maire",
+             "explanation" : "Walking Dead c'est vraiment trop long"
+        },
+        {
+            "question" : "Le calendrier en vigueur en France actuellement porte le nom de : ",
+            
+            "choices" : [
+                    "Calendrier Julien",
+                    "Calendrier magdalénien",
+                    "Calendrier républicain",
+                    "Calendrier grégorien"
+                        ],
+             "correct" : "Calendrier grégorien",
+             "explanation" : "il existe en différent format papier"
+        },
+        {
+            "question" : "A partir de quand un véhicule est considéré en stationnement abusif ?",
+            
+            "choices" : [
+                    "24heures",
+                    "3 jours",
+                    "7 jours",
+                    "1 mois"
+                        ],
+             "correct" : "7 jours",
+             "explanation" : "Il est important de bien se garer"
+        },
+        {
+            "question" : "Le gros-plant est : ",
+            
+            "choices" : [
+                    "Un vin blanc nantais",
+                    "Un chou-fleur",
+                    "Une sorte d'artichaut breton"
+                        ],
+             "correct" : "Un vin blanc nantais",
+             "explanation" : "Rien à voir avec une photo..."
+        },
+        {
+            "question" : "Nous conduisons à droite parce que :",
+            
+            "choices" : [
+                    "La plupart des gens sont droitiers",
+                    "Napoléon l'a imposé à l'Europe pour harmoniser la circulation",
+                    "Il fallait choisir, droite ou gauche, pour éviter les collisions"
+                        ],
+             "correct" : "Il fallait choisir, droite ou gauche, pour éviter les collisions",
+             "explanation" : "Boire ou conduire il faut choisir"
+        },
+        {
+            "question" : "Depuis 2013, combien de catégories comporte la nomenclature des armes dans la législation française ?",
+            
+            "choices" : [
+                    "3 catégories",
+                    "4 catégories",
+                    "5 catégories"
+                        ],
+             "correct" : "4 catégories",
+             "explanation" : "C'est une histoire de permis"
+        },
+        {
+            "question" : "Un robinet qui fuit, à raison d’une goutte par seconde pendant une journée, entraîne une perte de :",
+            
+            "choices" : [
+                    "5 litres d'eau",
+                    "18 litres d'eau",
+                    "120 litres d'eau"
+                        ],
+             "correct" : "18 litres d'eau",
+             "explanation" : "Mais s'il y a un trou dans la baignoire, ce n'est pas pareil..."
+        }
+]

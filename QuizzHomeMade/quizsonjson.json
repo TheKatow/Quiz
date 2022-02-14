@@ -1,0 +1,62 @@
+[
+    {
+    "question": "Q1: Est-ce qu'on a des superclassroOms?",
+    "choices": [
+        "Oui",
+        "Tout a fait",
+        "Non"
+    ],
+    "correct": "Tout a fait",
+    "explanation ": "Demandez à Maksime"
+},
+{
+    "question": "Q2: Est-ce que vous avez compris le json?",
+    "choices": [
+        "then.(oui totalement() => oui totalement)",
+        "then.(C'est quoi ça(?) => C'est quoi ça(?))",
+        "je me suis fetché avec le vendeur de chocolatine"
+    ],
+    "correct": "je me suis fetché avec le vendeur de chocolatine",
+    "explanation": "explication"
+},
+{
+    "question": "Q3: Qu'est-ce qu'une fonction native ?",
+    "choices": [
+        "Fonctions qui sont prédéfinies (qui sont en fait des méthodes) qu'on n'aura qu'à appeler",
+        "C'est une fonction mâle qui s'accouple avec une fonction femelle pour la créer",
+        "Fonctions qui ont pour but de fonctionner"
+    ],
+    "correct": "Fonctions qui sont prédéfinies (qui sont en fait des méthodes) qu'on n'aura qu'à appeler",
+    "explanation": "explication"
+},
+{
+    "question": "Q4 C'est rien c'est juste pour avoir un truc la dedans",
+    "choices": [
+        "Choix_1",
+        "Choix_2",
+        "Choix_3"
+    ],
+    "correct": "Choix_1",
+    "explanation": "explication"
+},
+{
+    "question": "Q5 C'est rien c'est encore(juste pour avoir un truc la dedans)",
+    "choices": [
+        "fonction?",
+        "function",
+        "Funktion!"
+    ],
+    "correct": "Funktion!",
+    "explanation": "explication"
+},
+{
+    "question": "Q6 C'est rien, je voulais juste faire une function anonyme() => {return juste pour avoir un truc la dedans?}",
+    "choices": [
+        "Les anonymous",
+        "Les animalus",
+        "Les tentaculus"
+    ],
+    "correct": "Les anonymous",
+    "explanation": "explication"
+}
+]

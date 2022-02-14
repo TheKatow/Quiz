@@ -1,0 +1,12 @@
+[
+    {
+        "question": "Q1: Quel est la première balise dans le &lt;html&gt ?",
+        "choices": [
+            "<meta>",
+            "'&lt;!Doctype&gt'",
+            "'&lt;html&gt'"
+        ],
+        "correct": "'&lt;html&gt'",
+        "explanation": "Le <Doctype> <> n’est pas une balise HTML. C’est une instruction spécifique qui indique au navigateur la version du langage HTML qui sera utilisée. Elle doit être utilisé au tout début, avant la balise html. </br> La balise <meta> fournit des métadonnées sur le document HTML. Les métadonnées ne sont pas visible mais analyser par les navigateurs, les moteurs de recherche, ou autres services web"
+    }
+]

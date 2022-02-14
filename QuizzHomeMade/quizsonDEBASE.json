@@ -1,0 +1,38 @@
+[
+    {
+    "question": "Q1: Combien fait 4 * 4 + 5 * 4?",
+    "choices": [
+        { "text" : 38 },
+        { "text" : 39 },
+        { "text" : 36 }
+    ],
+    "correct": 36
+},
+{
+        "question": "Q2: Est-ce qu'on a des superclassroOms?",
+        "choices": [
+            { "text" : "non" },
+            { "text" : "ouiiiiiii" },
+            { "text" : "tg" }
+        ],
+        "correct": "tg"
+},
+{
+    "question": "Q3: Est-ce que Maxime est beau?",
+    "choices": [
+        { "text" : "non"  },
+        { "text" : "ouiiiiiii"},
+        { "text" : "tg "}
+    ],
+    "correct": "non"
+},
+{
+    "question": "Q2: Est-ce qu'on a des lunettes?",
+    "choices": [
+        { "text" : "non" },
+        { "text" : "ouiiiiiii"  },
+        { "text" : "tg" }
+    ],
+    "correct":  "ouiiiiiii"
+}
+]

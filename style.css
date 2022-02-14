@@ -1,0 +1,79 @@
+#correct{
+background-color: rgb(100, 215, 100);
+transition: all 0.5s ease-out;
+width: 60%;
+transform: translate3d(102px, 362px, 335px);
+font-size: 2.5vw;
+text-overflow: clip;
+color:black;
+transform: rotate(1turn);
+}
+#faux{
+position: relative;
+background-color: rgb(235, 100, 100);
+transform: rotate(0.1turn);
+color:black;
+}
+
+body{
+background-color: rgb(155, 255, 255); 
+margin: 0;
+}
+section{
+    height: 80vw;
+    display: grid;
+}
+button{
+width: 55vw;
+height: 6vw;
+margin: 1vw;
+border-radius: 2%;
+font-size: 2.2vw;
+background-color: rgb(221, 221, 221);
+filter: drop-shadow(10px 10px 5px black);
+border: 2px solid rgb(153, 153, 153);
+}
+button:hover{
+background-color: rgb(200, 200, 200);
+filter: drop-shadow(5px 5px 5px black);
+}
+#previous, #next, #refresh{
+    width: 13vw;
+    height: 4.5vw;
+    background-color: rgb(155, 255, 255); 
+    filter: drop-shadow(5px 5px 3px black);
+    font-style: italic;
+    border-radius: 10%;
+}
+
+#questions{
+font-size: 3.5vw;
+margin: 3vw;
+height: 7vw;
+text-align: left;
+}
+#reponses{
+margin: 3vw;
+height: 35vw;
+text-align: center;
+}
+#explications{
+font-size: 4vw;
+margin-left: 5vw;
+margin-right: 5vw;
+margin-bottom: 2vw;
+height: 20vw;
+background-color: rgb(221, 221, 221);
+}
+#score{
+background-color: rgb(221, 221, 221);
+font-size: 4vw;
+text-align: right;
+padding: 1vw;
+}
+#restart{
+background-color: rgb(221, 221, 221);
+font-size: 4vw;
+text-align: center;
+padding: 1vw;
+}

@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Quel est le 6e Président de la Ve République française ?",
+        "choices": [
+             "Jacques Chirac",
+             "Nicolas Sarkozy"
+        ],
+        "correct": "Nicolas Sarkozy",
+        "explanation": "Nicolas Sarkozy fut élu de 2007 à 2012. À l’issue de son mandat, il cède sa place au second tour des élections de 2012 à François Hollande."
+    },
+    {
+        "question": "Qui a démocratisé la fameuse tarte Tatin ?",
+        "choices": [
+            "Les soeurs Tatin",
+            "Tatin père et fils",
+            "Les frères Tatin",
+            "Les cousins Tatin" 
+        ],
+        "correct": "Les soeurs Tatin",
+        "explanation": "La légende raconte que Stéphanie Tatin aurait renversé sa tarte aux pommes à la sortie du four. Voulant rattraper son erreur, elle aurait ramassé la tarte et avec sa sœur et l'aurait servie à l'envers. En vérité, ce dessert serait dérivé d’une vieille spécialité solognote"
+    },
+    {
+        "question": "Quelle est, à ce jour, la plus grande catastrophe nucléaire de l'histoire de l’humanité ?",
+        "choices": [
+            "Fukushima",
+            "Tricastin",
+            "Tchernobyl"
+        ],
+        "correct": "Tchernobyl",
+        "explanation": "En 1986, le réacteur numéro 4 de la centrale soviétique de Tchernobyl (Ukraine) explose au cours d’un test de sécurité, causant la plus grande catastrophe du nucléaire civil et faisant plus de 25 000 morts."
+    },
+    {
+        "question": "Choisissez la bonne orthographe ",
+        "choices": [
+             "Cyrose",
+             "Cirrhose",
+             "Cirrose"
+        ],
+        "correct": "Cirrhose",
+        "explanation": "La cirrhose est une maladie du foie. La plupart du temps, elle est due à une consommation excessive et répétée d’alcool, mais peut aussi survenir suite à une hépatite virale chronique ou lors de l’accumulation de graisse dans le foie."
+    },
+    {
+        "question": "Quel film détient aujourd’hui le plus gros succès mondial au box office ?",
+        "choices": [
+            "Avatar",
+            "Avengers:Endgame",
+            "Titanic"
+        ],
+        "correct": "Avatar",
+        "explanation": "Détrôné en 2019 par les 'Avengers' aux 2.797 milliards de recettes, 'Avatar' de James Cameron a repris son titre en mars 2021 après être ressorti en Chine et avoir engrangé 7,8 millions de dollars de plus."
+    },
+    {
+        "question": "Quelle est la capitale économique de la Suisse ?",
+        "choices": [
+            "Berne",
+            "Zurich",
+            "Genève"
+        ],
+        "correct": "Zurich",
+        "explanation": "En plus d’être la capitale économique du pays, Zurich est un centre économique et financier mondial. En 2012, The Economist la considérait comme la ville la plus chère du monde, aujourd’hui elle occupe la seconde place, derrière Hong Kong."
+    },
+    {
+        "question": "Quel chanteur ou chanteuse est l’interprète de 'Shape Of You', sorti en 2017 ? ",
+        "choices": [
+            "Adele",
+            "Drake",
+            "Ed Sheeran"
+        ],
+        "correct": "Ed Sheeran",
+        "explanation": "Ed Sheeran est le chanteur qui a vendu le plus d’albums dans le monde en 2017. Un disque propulsé notamment par 'Shape Of You', certifié plusieurs fois disque de platine dans 32 pays différents."
+    },
+    {
+        "question": "Quel.le illustre écrivain.e a dit : 'Mieux vaut mourir incompris que passer sa vie à s’expliquer' ??",
+        "choices": [
+            "Françoise Sagan",
+            "Victor Hugo",
+            "William Shakespeare"
+        ],
+        "correct": "William Shakespeare",
+        "explanation": "Les circonstances de la mort de Shakespeare restent aujourd’hui un mystère. On raconte qu’il aurait été pris d’une mystérieuse fièvre à la suite d’une soirée trop arrosée et qu’il en serait mort à l’âge de 52 ans."
+    },
+    {
+        "question": "Pourquoi pleure-t-on spontanément lorsque nous épluchons un oignon ? ",
+        "choices": [
+            "La faute à des composés soufrès qui produisent un gaz irritant",
+            "La faute à l'émission de spores comparables à ceux des champignons",
+            "La faute à des micro-organismes de défense contenus dans l'oignon"
+        ],
+        "correct": "La faute à des composés soufrès qui produisent un gaz irritant",
+        "explanation": "Lorsque vous coupez un oignon, vous percez ses cellules, qui contiennent une enzyme, l’allinase. Celle-ci réagit alors avec un composant de l’oignon (1-propényl-L-cystéine sulfoxyde), créant un composé soufré très irritant"
+    },
+    {
+        "question": "Contrairement à l’imaginaire collectif, laquelle de ces propositions est un fruit ?",
+        "choices": [
+            "Le haricot vert",
+            "La pomme de terre",
+            "La carotte"
+        ],
+        "correct": "Le haricot vert",
+        "explanation": "Si on a souvent tendance à le cataloguer légume du fait qu’il ne soit pas sucré, le haricot vert est bel et bien un fruit. La gousse qui lui donne son nom est issue du carpelle unique de la fleur."
+    }
+]

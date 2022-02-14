@@ -1,0 +1,109 @@
+[
+    {
+        "question": "Q1 : Déterminez l'écriture correcte de la string interpolation suivante :",
+        "choices": [
+            " const salutation = Bienvenue sur mon site ${myName}!",
+            "`const salutation = Bienvenue sur mon site ${myName}!`",
+            "`const salutation = Bienvenue sur mon site $(myName)!`",
+            "$Pour une poignée de dollars$"
+        ],
+        "correct": "const salutation = `Bienvenue sur mon site ${myName}!`",
+        "explanation": "Il est possible depuis quelques années d’utiliser une nouvelle écriture qui simplifie la concaténation des variables et des chaînes de caractère = la string interpolation. Pour créer une string interpolation on écrit du texte encadrée par le signe ' "
+    },
+    {
+        "question": "Q2 : Quelle est la définition d'API ?",
+        "choices": [
+            "Application Programming Interpolation",
+            "Appareil Protection Individuel",
+            "Application Programming Interface"
+        ],
+        "correct": "Application Programming Interface",
+        "explanation": "L’API (Application Programming Interface) correspond à l’ensemble des demandes que l’on peut faire à un service web. Ces demandes sont appelées des requêtes"
+    },
+    {
+        "question": "Q3: Quelle méthode HTTP n'en est pas une ?",
+        "choices": [
+            "GET",
+            "PUT",
+            "DELETE",
+            "RETURN"
+        ],
+        "correct": "RETURN",
+        "explanation ": "Regardes tes cours"
+    },
+    {
+        "question": "Q4 : Que renvois FETCH à la fin du résultat d'une requête ?",
+        "choices": [
+            "Une promiscuité",
+            "Une promise",
+            "Une pommade",
+            "Une tarte dans ta gueule"
+        ],
+        "correct": "Une promise",
+        "explanation": " la Promise est un objet qui fournit une fonction then qui sera exécutée quand lerésultat aura été obtenu, et une fonction catch qui sera appelée s’il y a une erreur qui est survenue lors de la requête"
+    },
+    {
+        "question": "Q5 : Qu'est ce qu'une classe ?",
+        "choices": [
+            "Une formation quand on rentre dans l'armée",
+            "Un modèle pour un objet dans le code",
+            "Un constructeur dans un objet",
+            "Un groupe scolaire"
+        ],
+        "correct": "Un modèle pour un objet dans le code",
+        "explanation": "Elle permet de construire plusieurs objets du même type"
+    },
+    {
+        "question": "Q6 : Quel mot clé utilise t-on pour créer une classe ?",
+        "choices": [
+            "Glass",
+            "Class",
+            "Dass",
+            "Pass"
+        ],
+        "correct": "Class",
+        "explanation": "Y a-t'il besoin de préciser la bonne réponse? Si oui TU SORTS=>"
+    },
+    {
+        "question": "Q7 : Un nom constitué de plusieurs mots s'appelle (exemple : 'jaimeCourrirToutNueDansLaNatureSauvageEnHivers')  ?",
+        "choices": [
+            "Camel trophy",
+            "Camel phrase",
+            "Camel case",
+            "Chamelle cause"
+        ],
+        "correct": "Camel case",
+        "explanation": "Dans cette convention, les noms sont constitués de plusieurs mots dont l'initiale est en capitale"
+    },
+    {
+        "question": "Q8 : Dans l'instruction' switch , qu'est ce qui permet d'éviter l'exécution en cascade ?",
+        "choices": [
+            "case",
+            "break",
+            "Arretes putain!",
+            "return"
+        ],
+        "correct": "break",
+        "explanation": "Fais un Break"
+    },
+    {
+        "question": "Q9 : Quelle réponse a une égalité simple ET stricte ?",
+        "choices": [
+            "(a == 1) && ( b === b) ",
+            "(a == 1) et ( b =>= b)",
+            "(a -= 1) + ( b === b)"
+        ],
+        "correct": "(a == 1) && ( b === b) ",
+        "explanation": "Révises tes cours"
+    },
+    {
+        "question": "Q10 : Laquelle de ces propositions n'est pas un framework ?",
+        "choices": [
+            "Bootstrap",
+            "Wordpress",
+            "w3.css"
+        ],
+        "correct": "Wordpress",
+        "explanation": "Wordpress est un CMS (content management system) "
+    }
+]
